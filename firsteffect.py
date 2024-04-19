@@ -9,6 +9,6 @@ def message(asd, raz, length, rainbow):
     return textfull
 print(message("Discord Rainbow, Probels ->-/-/-/-/-<-","-/-/-/-/-", 27, True))
 #1 The text itself
-#2 Separator, put a space where you want
+#2 Separator, put where you want space 
 #3 the length of the spaces
 #4 Rainbow text or not (discord only
